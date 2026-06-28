@@ -14,7 +14,7 @@
   <img width="370" height="178" alt="image" src="https://github.com/user-attachments/assets/dd1aa698-d3b2-4dfe-9545-493e36d805de" />
 
 
-- Spread (...) Operator : Expand values
+- Rest (...) Operator : Combine values
 
   E.g :
 
